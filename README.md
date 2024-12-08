@@ -2,7 +2,7 @@
 Hướng dẫn sử dụng một số lệnh thao tác với gitr khi làm việc git với team developerr
 ========================================================================
 
-# Hướng dẫn sử dụng một số lệnh thao tác với git tortoise khi làm việc git với team developer
+# Hướng dẫn sử dụng một số lệnh thao tác với git tortoise khi làm việc git với team developer ffed
 
          BEGIN
 
@@ -20,7 +20,7 @@ A tao branch register
 
     git checkout –b register
 
-A switch qua branch register
+A switch qua branch register df
 
 A viet code va commit 2 files : register.html va register.java len branch register
 
