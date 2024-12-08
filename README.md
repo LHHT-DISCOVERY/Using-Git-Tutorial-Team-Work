@@ -16,7 +16,7 @@ A tao branch register
 
     git checkout –b register
 
-A switch qua branch register tortoiseaz
+A switch qua branch register (dev tri)
 
 A viet code va commit 2 files : register.html va register.java len branch register
 
@@ -50,7 +50,7 @@ A va B ve lai banch master
 
     Git checkout master
 
-A va B lay code moi nhat ve
+A va B lay code moi nhat ve (dev tri)
 
     Git pull
 
@@ -92,7 +92,7 @@ happy
 
 Profil
 
-> > > > > > > 65961fa05f24158e0174ca433baac43ca145b25agf
+> > > > > > > 65961fa05f24158e0174ca433baac43ca145b25atr
 
     Phần ở trên dấu ==== là của local của A. Phần ở dưới là của git
 
